@@ -1,5 +1,5 @@
-
 # SimpleMemory++
+![GitHub](https://img.shields.io/github/license/1nfinit/simplememorypp) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/1nfinit/simplememorypp)
 SimpleMemory++ is a fast and light memory manipulation tool with all features in just one header file.
 
 ## Functions
